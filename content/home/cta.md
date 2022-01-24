@@ -1,5 +1,5 @@
 ---
-title:
+title: Some Action Button
 subtitle:
 widget: blank
 headless: true
