@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳恩達
+title: Dr. Khurram Bhatti
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor - Embedded Systems
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Information Technology University (ITU)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
