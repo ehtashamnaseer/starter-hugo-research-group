@@ -12,21 +12,22 @@ role: PhD Student
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Remote Sensing
+- Machine Learning/Deep Learning
+- Air Pollution
+- InSAR
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Electrical Engineering (In progress)
+    institution: Information Technology University Punjab Lahore, Pakistan
+    year: ---
+  - course: MS Electrical Engineering
+    institution: National University of Computer and Emerging Sciences Lahore
+    year: 2021
+  - course: BSc. Electronics Engineering
+    institution: The Islamia University of Bahawalpur
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,13 +39,13 @@ social:
   link: 'mailto:test@example.org'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/NaseerEhtasham
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ehtashamnaseer
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
