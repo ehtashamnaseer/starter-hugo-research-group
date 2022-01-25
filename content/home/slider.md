@@ -2,6 +2,13 @@
 widget: slider
 headless: true  # This file represents a page section.
 
+title: Carousal
+subtitle: main page
+weight: 1  # section position on page
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+
 # ... Put Your Section Options Here (section position etc.) ...
 
 # Slide interval.
@@ -10,7 +17,7 @@ interval: false
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 300px
+height: 600px
 
 
 item:
