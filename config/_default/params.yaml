@@ -6,9 +6,9 @@
 # Appearance
 
 theme: minimal
-day_night: false
+day_night: true
 font: native
-font_size: L
+font_size: M
 
 # SEO
 
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: rsa@itu.edu.pk
 phone: 888 888 88 88
 address:
   street: 450 Serra Mall
@@ -52,7 +52,7 @@ main_menu:
   show_language: false
   show_day_night: true
   show_search: true
-  highlight_active_link: false
+  highlight_active_link: true
 
 # Localization
 
