@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Khurram Bhatti
+title: Dr. Muhammad Khurram Bhatti
 
 # Is this the primary user of the site?
 superuser: false
