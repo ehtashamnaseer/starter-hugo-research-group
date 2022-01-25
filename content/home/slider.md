@@ -27,7 +27,7 @@ item:
     align: center
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
-    overlay_color: '#666'  # An HTML color value.
+    #overlay_color: '#666'  # An HTML color value.
     overlay_img: pexels-jaymantri-5439.jpg  # Image path relative to your `assets/media/` folder
     overlay_filter: 0.25  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
